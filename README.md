@@ -16,7 +16,6 @@ He fights to protect the future in which his daughters will grow, lead, and amaz
 **CyberAware, LLC / Founder** _10/14–09/15_
 - Founded company devoted to providing cybersecurity consulting services with a focus on cybersecurity & critical infrastructure policy issues. Successfully completed large project for a Fortune 100 tech company. The client was satisfied with the work completed and noted that my work was beneficial for the client.
 
-06/2014 – 09/2014 | REDMOND, WA
 **Microsoft / Trustworthy Computing Intern** _06/14-09/14_
 - Provided directed guidance on how the NIST Cybersecurity Framework could be used for Microsoft’s cloud services. Shortly after, Microsoft publicly stated that its cybersecurity risk management practices align with the Framework for its cloud services. 
 - Conducted a comprehensive analysis of national cybersecurity strategies that helped inform international cybersecurity policy decisions. Analysis of each strategy yielded a comprehensive mapping of what nations publicly state they plan to do about cybersecurity.
