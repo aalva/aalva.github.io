@@ -34,5 +34,23 @@ _..._
 **B.A. Political Science | Minor Secure Computing / Univ. of Central Florida** _2008-2011_
 - Awarded Order of Pegasus (University's highest honor)
 
+## Selected Presentations
+
+
+
+
+## Selected Publications 
+Justin Brookman, Phoebe Rouge, Aaron Alva, and Christina Yeung. "Cross-device tracking: Measurement and disclosures." Proceedings on Privacy Enhancing Technologies (2017). [Link](https://petsymposium.org/2017/papers/issue2/paper29-2017-2-source.pdf)
+
+Tamara Bonaci, Aaron Alva, Jeffrey Herron, Ryan Calo, Howard Jay Chizeck, “I Did It My Way: On Law and Operator Signatures for Teleoperated Robots.” Paper presented at the We Robot Conference on Robotics, Law & Policy, Seattle, WA (Apr. 2015). [Link](http://www.werobot2015.org/wp-content/uploads/2015/04/Bonaci_etal_Operator_signatures_We_Robot_2015_Final_v2.pdf)
+
+Aaron Alva and Lisa Young, “L-SQUARE: Preliminary Extension of the SQUARE Methodology to Address Legal Compliance.” Paper presented at the 1st International Workshop on Evolving Security & Privacy Requirements Engineering (ESPRE), Karlskrona, Sweden (IEEE, Aug. 2014).
+
+Dan Arnaudo, Aaron Alva, Phillip Wood, Jan Whittington. “The Political & Economic Implications of Authoritarian Control of the Internet: The Case of Egypt During the Arab Spring,” Critical Infrastructure Protection VII (2013). [Link](https://hal.inria.fr/hal-01456889/document)
+
+Ivan Orton, Aaron Alva, Barbara Endicott-Popovsky, “Legal Process and Requirements for Cloud Forensic Investigations,” Cybercrime and Cloud Forensics: Applications for Investigation Processes, ed. Keyun Ruan (2013). (Book chapter)
+
+Nicolai Kuntze, Carsten Rudolph, Aaron Alva, Barbara Endicott-Popovsky, John Christiansen, Thomas Kemmerich. "On the Creation of Reliable Digital Evidence," Advances in Digital Forensics VIII (2012). [Link](https://hal.inria.fr/hal-01523718/document)
+
 ### Contact me
 [@aalvatar](https://twitter.com/aalvatar)
