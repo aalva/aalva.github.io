@@ -6,7 +6,7 @@ Before the FTC, Aaron conducted research on a variety of topics including cloud 
 
 He fights to protect the future in which his daughters will grow, lead, and amaze.
 
-## Experience
+## Selected Experience
 
 **Federal Trade Commission / Technologist** _09/15-present_
 - Assist attorneys on technical aspects of security, privacy, and fraud investigations. Substantially contributed to multiple investigations leading to novel security & privacy actions and remedies. Such settlements have amounted to over 38,000 times my annual salary. 
@@ -17,11 +17,19 @@ He fights to protect the future in which his daughters will grow, lead, and amaz
 - Founded company devoted to providing cybersecurity consulting services with a focus on cybersecurity & critical infrastructure policy issues. Successfully completed large project for a Fortune 100 tech company. The client was satisfied with the work completed and noted that my work was beneficial for the client.
 
 **Microsoft / Trustworthy Computing Intern** _06/14-09/14_
-- Provided directed guidance on how the NIST Cybersecurity Framework could be used for Microsoft’s cloud services. Shortly after, Microsoft publicly stated that its cybersecurity risk management practices align with the Framework for its cloud services. 
+- Provided specific guidance on how the NIST Cybersecurity Framework could be used for Microsoft’s cloud services. Shortly after, Microsoft publicly stated that its cybersecurity risk management practices align with the Framework for its cloud services. 
 - Conducted a comprehensive analysis of national cybersecurity strategies that helped inform international cybersecurity policy decisions. Analysis of each strategy yielded a comprehensive mapping of what nations publicly state they plan to do about cybersecurity.
 
 **CERT at Carnegie Mellon University / Graduate Researcher** _06/13-09/13_
-_..._
+- Researched strengthening security requirements through contractual relationships between critical
+infrastructure organizations and service providers. 
+
+**Cloud Security Alliance / Graduate Intern, Global Research** _04/12-09/12_
+- Facilitated global industry-led research projects as project manager.  
+
+**Pacific Northwest National Laboratory (PNNL) / Technical/Business Student** _06/07-08/08, 12/08, 05/09-08/09, 01/10, 05/10-08/10_
+- Conducted information security research as part of strategic (high-risk, high-reward) initiative, and led multi-part security tool evaluation as project manager.   
+
 
 ## Education 
 
@@ -35,9 +43,13 @@ _..._
 - Awarded Order of Pegasus (University's highest honor)
 
 ## Selected Presentations
+Aaron Alva and Terrell McSweeney, “So You Want to Market Your Security Product...,” Black Hat USA (2017). [Link](https://www.blackhat.com/docs/us-17/wednesday/us-17-Alva-So-You-Want-To-Market-Your-Security-Product.pdf)
 
+Aaron Alva and Whitney Merrill, “Goodnight Moon & the House of Horrors: A look at the current IoT ecosystem and the regulations trying to control it,” ShmooCon (2017). [Video](https://archive.org/details/ShmooCon2017/ShmooCon2017+-+GoodnightMoonTheHouseOfHorrors.mp4)
 
+Aaron Alva and Mark Eichorn, “IoT Updates to Help Protect Consumers,” IoT Village at DEF CON 25 (2017).
 
+Aaron Alva and Terrell McSweeney, “Ransomware, Drones, Smart TVs, Bots: Protecting Consumers in the Age of IoT,” RSA Conference (2017).
 
 ## Selected Publications 
 Justin Brookman, Phoebe Rouge, Aaron Alva, and Christina Yeung. "Cross-device tracking: Measurement and disclosures." Proceedings on Privacy Enhancing Technologies (2017). [Link](https://petsymposium.org/2017/papers/issue2/paper29-2017-2-source.pdf)
@@ -51,6 +63,9 @@ Dan Arnaudo, Aaron Alva, Phillip Wood, Jan Whittington. “The Political & Econo
 Ivan Orton, Aaron Alva, Barbara Endicott-Popovsky, “Legal Process and Requirements for Cloud Forensic Investigations,” Cybercrime and Cloud Forensics: Applications for Investigation Processes, ed. Keyun Ruan (2013). (Book chapter)
 
 Nicolai Kuntze, Carsten Rudolph, Aaron Alva, Barbara Endicott-Popovsky, John Christiansen, Thomas Kemmerich. "On the Creation of Reliable Digital Evidence," Advances in Digital Forensics VIII (2012). [Link](https://hal.inria.fr/hal-01523718/document)
+
+## Selected Certifications
+Certified Information Systems Security Professional (CISSP) _04/2020_
 
 ### Contact me
 [@aalvatar](https://twitter.com/aalvatar)
