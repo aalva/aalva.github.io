@@ -4,7 +4,7 @@ Aaron Alva is a lawyer (not yours) and hacker who works as a technologist at the
 
 Before the FTC, Aaron conducted research on a variety of topics including cloud forensics, digital evidence admissibility, surgical robotics security, and more.
 
-He fights to protect the future in which his daughters will grow, lead, and amaze.
+He fights to protect the future in which his daughters can grow, lead, and amaze.
 
 ## Selected Experience
 
