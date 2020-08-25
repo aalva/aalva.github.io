@@ -9,7 +9,7 @@ He fights to protect the future in which his daughters can grow, lead, and amaze
 ## Selected Experience
 
 **Federal Trade Commission / Technologist** _09/15-present_
-- Assist attorneys on technical aspects of security, privacy, and fraud investigations. Substantially contributed to multiple investigations leading to novel security & privacy actions and remedies. Such settlements have amounted to over 38,000 times my annual salary. 
+- Assist attorneys on technical aspects of security, privacy, and fraud investigations. Substantially contributed to multiple investigations leading to novel security & privacy actions and remedies. These contributions have resulted in over $5 billion in settlements, and consent orders that improve security & privacy for hundreds of millions of US consumers.  
 - Conduct technical research on security, privacy, and fraud topics that impact consumers. For example, published research on cross-device tracking has been cited over 50 times and was presented as part of an FTC workshop. 
 - Educate attorneys and investigators on i) the latest relevant technical research; ii) investigative techniques for security, privacy, and fraud investigations; iii) foundational technical concepts (e.g. How DNS works); and more. Presentations and techniques have been used to improve decision making and make certain law enforcement investigations more efficient.  
 
