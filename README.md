@@ -1,17 +1,15 @@
-## Aaron Alva | security & privacy researcher (and lawyer)
+## Aaron Alva | technologist (and lawyer)
 
-Aaron Alva is a lawyer (not yours) and hacker who works as a technologist at the Federal Trade Commission's Office of Technology Research and Investigation (OTech). He was a recipient of the NSF CyberCorps scholarship for his MS/JD work at the University of Washington. At the FTC, he explains technical issues to attorneys working on behalf of consumers, and conducts research on areas that impact us all.
+Aaron Alva is a technologist and tech advisor at the Federal Trade Commission. At the FTC, he advises the Director of the Bureau of Consumer Protection and case teams on a variety of technical issues including data minimization and deletion, multifactor authentication, health privacy, and ad tech. 
 
-Before the FTC, Aaron conducted research on a variety of topics including cloud forensics, digital evidence admissibility, surgical robotics security, and more.
-
-He fights to protect the future in which his daughters can grow, lead, and amaze.
+Before the FTC, Aaron conducted cybersecurity research on a variety of topics ranging from cloud forensics to digital evidence admissibility to surgical robotics security. He is also a recipient of the NSF CyberCorps Scholarship for service for his joint Masters in Information Management and J.D. at the University of Washington.
 
 ## Selected Experience
 
 **Federal Trade Commission / Technologist** _09/15-present_
-- Assist attorneys on technical aspects of security, privacy, and fraud investigations. Substantially contributed to multiple investigations leading to novel security & privacy actions and remedies. These contributions have resulted in over $5 billion in settlements, and consent orders that improve security & privacy for hundreds of millions of US consumers.  
-- Conduct technical research on security, privacy, and fraud topics that impact consumers. For example, published research on cross-device tracking has been cited over 50 times and was presented as part of an FTC workshop. 
-- Educate attorneys and investigators on i) the latest relevant technical research; ii) investigative techniques for security, privacy, and fraud investigations; iii) foundational technical concepts (e.g. How DNS works); and more. Presentations and techniques have been used to improve decision making and make certain law enforcement investigations more efficient.  
+- Advise leaders and attorneys on technical aspects of security, privacy, and fraud investigations. Substantially contributed to multiple investigations leading to novel security & privacy actions and remedies. These contributions have resulted in over $5 billion in settlements, and consent orders that improve security & privacy for hundreds of millions of US consumers.  
+- Conduct technical research on security & privacy topics that impact consumers.  
+- Educate attorneys and investigators on i) relevant technical research; ii) investigative techniques for security, privacy, and fraud investigations; iii) foundational technical concepts; and more.  
 
 **CyberAware, LLC / Founder** _10/14–09/15_
 - Founded company devoted to providing cybersecurity consulting services with a focus on cybersecurity & critical infrastructure policy issues. Successfully completed large project for a Fortune 100 tech company. The client was satisfied with the work completed and noted that my work was beneficial for the client.
